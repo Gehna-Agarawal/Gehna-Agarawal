@@ -1,58 +1,48 @@
-# Hi there! <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> -->
+# Gehna Agarawal &nbsp;<img src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
-<p align="center">
-<!-- Social Links - uncomment and add yours -->
-<a href="https://linkedin.com/in/gehna-agarawal-373a10366/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp; 
-<a href="http://discord.com/users/739696630730719285" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="40" width="30" /></a> 
+<img align="right" alt="PC GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/PC.gif" width="190" />
+
+### <img src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/Earth.gif" width="24px">
+
+<p>
+  <em>
+    I am a 1st Year undergraduate at <a href="https://vit.ac.in/"><b>Vellore Institute of Technology (VIT), Vellore</b></a>.  
+    A budding <b>Electronics and Communication Engineer</b> ⚡ and a <b>Tech Enthusiast,</b>&nbsp;<img src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/Developer.gif" width="30px"> 
+    passionate about <b>building cool projects</b> 🚀, <b>coding challenges</b> 💻, and 
+    <b>exploring</b> how tech can make lives easier. 🛠️
+  </em>  
 </p>
 
-<!-- Banner GIF -->
-<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
+<br>
 
----
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/wave.gif" width="20px" /> I’m *currently* **learning** Arduino, Raspberry Pi, and **full-stack web dev** 👨‍💻  
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’ve built projects like a **Smart Cap for the Blind**, **Solar System Simulation**, and a **Tesla Coil** ⚡  
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **Python 🐍, IoT, and AI projects**  
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/hmm.gif" width="20px" /> I love working on **tech that helps communities** 🤝  
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/happy.gif" width="20px" /> *Ask me* about **logical puzzles, coding competitions, and space stuff 🌌**  
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔  
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** I once won *Techvizz* by being both lazy and smart 😴💡  
 
-### <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> --> About Me
-- I am **Gehna Agarwal**, a first-year BTech student in **Electronics and Communication Engineering**  
-- I love building projects that merge **electronics, coding, and creativity**  
-- My interests include **embedded systems, simulations, accessible technology, and problem-solving**  
-- Projects I’ve worked on include:  
-  - Smart Cap for the Blind (Arduino + Ultrasonic Sensors)  
-  - Interactive Solar System Model (Raspberry Pi)  
-  - Solar System Simulation (Python + Pygame + Newtonian Physics)  
-  - ASCII Wordle (MySQL integrated terminal game)  
-  - Mini Tesla Coil  
-- Leader of my school’s **Tech Club (Paradox)**, teaching coding & 3D development  
-- Member of **Saksham**, a community project creating tech for the visually impaired  
-- Winner of **Techvizz Programming Competition** and author of a **research paper** on simulations  
+<br>
 
----
+<a href="https://github.com/Gehna-Agarawal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehna-Agarawal&theme=dark&hide_langs_below=1" />
+</a>
 
-### 🧑‍💻 Tech I work on
-<p align="center">
-<!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="55" height="55"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="55" height="55"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="c++" width="55" height="55"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>  -->
-</p>
+<a href="https://github.com/ShubhamdeepJha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gehna-Agarawal&show_icons=true&theme=dark&line_height=27" alt="Gehna's github stats"/>
+</a>
 
----
+<a href="https://github.com/Gehna-Agarawal/ASCII-Wordle-with-SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gehna-Agarawal&repo=ASCII-Wordle-with-SQL&theme=dark" />
+</a>
 
-### <!-- <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> --> My GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gehna-Agarawal&layout=compact&text_color=333&bg_color=f9f9f9)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gehna-Agarawal&theme=default)](https://git.io/streak-stats)
+<br>
 
----
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
-⏳ **Year Progress:** <!--START_SECTION:year-progress--> { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.49% <!--END_SECTION:year-progress-->
+<br>
 
----
+# Connect with me <img src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/Handshake.gif" height="32px">
 
-### <!-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> --> A Famous Quote
-<i>“The best way to predict the future is to invent it.” — Alan Kay</i>
-
----
-
-### <!-- <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif' width='29' /> --> Here’s some humour for you
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, refresh again" />
+[<img src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/gehna-agarawal-373a10366/) 
