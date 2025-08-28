@@ -1,26 +1,50 @@
-# About Me
+# Gehna Agarwal
 
-I am Gehna Agarwal, a first-year undergraduate student pursuing Electronics and Communication Engineering.  
-My primary interests lie in building projects that combine **electronics, programming, and innovation**. I enjoy solving problems through creative approaches, whether that means writing efficient code, designing simulations, or building working prototypes using microcontrollers and sensors.
+**First-Year BTech in Electronics and Communication Engineering**  
+Passionate about blending **electronics, coding, and innovation** to create impactful projects. Exploring the intersection of **embedded systems, simulations, and accessible technology**.  
 
-## Projects
-- Smart Cap for the Blind – Arduino Uno + ultrasonic sensors to assist visually impaired individuals with obstacle detection  
-- Solar System Simulation – Developed using Python, Pygame, vectors, and Newton's gravitational law  
-- ASCII Wordle – Terminal-based Wordle clone with MySQL integration for streak tracking  
-- Mini Tesla Coil – Designed and constructed a working scaled-down Tesla coil  
-- Interactive Solar System Model – Raspberry Pi powered tactile system that announces planet names and features when touched  
+---
 
-## Experience
-- Member of the technical team in **Saksham**, a community service project focused on developing accessible technology for the visually impaired and underprivileged  
-- Leader of my school’s tech club **Paradox**, where I taught coding, 3D development, and logical reasoning  
-- Published research paper on a simulation I created, exploring its applications and design  
-- Winner of **Techvizz Programming Competition** (first place)  
+## 🚀 About Me
+I am an aspiring engineer who enjoys designing projects that bring ideas to life — from Arduino-based assistive devices to Python simulations and Raspberry Pi prototypes. My work reflects a balance between **problem-solving, creativity, and technical depth**.  
 
-## Interests
-- Embedded systems and hardware prototyping (Arduino, Raspberry Pi)  
-- Physics-based simulations and visualisation models  
-- Developing accessible technology for inclusive communities  
-- Software development in Python, C++, and MySQL  
+- Undergraduate at Electronics and Communication Engineering (ECE)  
+- Interests: Embedded systems, simulations, accessible technology  
+- Skills: Arduino, Raspberry Pi, Python, C++, MySQL, Pygame  
+- Always eager to **learn, collaborate, and innovate**  
 
-## Goals
-I aim to continue exploring the intersection of hardware and software, focusing on projects that make a difference in people’s lives while improving my technical skills in embedded systems, programming, and circuit design. I am also interested in collaborating on projects that promote accessibility, innovation, and problem-solving in real-world contexts.
+---
+
+## 🛠️ Skills
+- **Programming Languages:** Python, C, C++  
+- **Electronics & Hardware:** Arduino, Raspberry Pi, Sensors, Circuits  
+- **Databases:** MySQL  
+- **Other Tools:** Pygame, Git, 3D Modelling basics  
+
+---
+
+## 📌 Featured Projects
+- **Smart Cap for the Blind** – Obstacle-detection cap built using Arduino Uno + ultrasonic sensors  
+- **Solar System Simulation** – Physics-based orbital simulation using Python, vectors, and Newton’s laws  
+- **ASCII Wordle** – Terminal-based Wordle clone with MySQL for streak data  
+- **Mini Tesla Coil** – Designed and constructed a small working Tesla coil  
+- **Interactive Solar System Model** – Raspberry Pi-based tactile planetary model with audio feedback  
+
+---
+
+## 🏆 Achievements
+- Published a **research paper** on a simulation project  
+- Led **Paradox**, my school’s tech club, teaching coding and 3D development  
+- Technical member in **Saksham**, a community project developing tech for the visually impaired  
+
+---
+
+## 📈 GitHub Stats
+![Gehna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+
+---
+
+## 🌐 Connect
+- Portfolio: *Coming Soon*  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/gehna-agarawal-373a10366)  
