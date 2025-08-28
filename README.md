@@ -40,8 +40,8 @@ I am an aspiring engineer who enjoys designing projects that bring ideas to life
 ---
 
 ## 📈 GitHub Stats
-![Gehna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+![Gehna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehna-Agarawal&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gehna-Agarawal&layout=compact&theme=default)
 
 ---
 
