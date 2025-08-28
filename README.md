@@ -39,10 +39,9 @@
 
 ---
 
-### <!-- <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> --> My GitHub Stats
-![Gehna's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=014e9b&icon_color=1abc9c&text_color=333&bg_color=f9f9f9&hide=issues&count_private=true&include_all_commits=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&text_color=333&bg_color=f9f9f9)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default)](https://git.io/streak-stats)
+### <!-- <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> --> My GitHub Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gehna-Agarawal&layout=compact&text_color=333&bg_color=f9f9f9)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gehna-Agarawal&theme=default)](https://git.io/streak-stats)
 
 ---
 
