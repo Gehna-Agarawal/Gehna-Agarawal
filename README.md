@@ -45,7 +45,7 @@
 
 ---
 
-⏳ **Year Progress:** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.49% as on ⏰ 28-Aug-2025  
+⏳ **Year Progress:** <!--START_SECTION:year-progress--> { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.49% <!--END_SECTION:year-progress-->
 
 ---
 
