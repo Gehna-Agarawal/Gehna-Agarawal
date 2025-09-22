@@ -20,7 +20,7 @@
 - <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **Python 🐍, IoT, and AI projects**  
 - <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/hmm.gif" width="20px" /> I love working on **tech that helps communities** 🤝  
 - <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/happy.gif" width="20px" /> *Ask me* about **logical puzzles, coding competitions, and space stuff 🌌**  
-- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔  
+- <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*She/Her*](https://pronoun.is/he) 🧔  
 - <img alt="GIF" src="https://github.com/Gehna-Agarawal/Gehna-Agarawal/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** I once won *Techvizz* by being both lazy and smart 😴💡  
 
 <br>
